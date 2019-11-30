@@ -1,0 +1,12 @@
+{
+  "name": "hola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-sass --watch scss -o css --output-style=expanded",
+    "prod": "node-sass scss -o css --output-style=compact"
+  },
+  "author": "",
+  "license": "ISC"
+}
